@@ -1,0 +1,1 @@
+# ngx-quill-testing-issue
